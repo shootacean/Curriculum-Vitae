@@ -18,11 +18,6 @@
 - PHP5、CakePHP2,3、MySQL、CentOS6
 - Mac、Git、Vagrant、PHPStorm
 
-**詳細**
-
-- 記載中
-
-
 ---
 ### お問い合わせ・アンケート管理システムの開発
 
