@@ -10,13 +10,28 @@
 プログラマー・サーバーサイドエンジニア
 
 **チーム**
-制作メンバー数: 15人
-内、開発メンバー数: 7人
+制作メンバー数: 20人
+内、開発メンバー数: １２人
 
-**開発環境**
+**開発環境・技術**
 
-- PHP5、CakePHP2,3、MySQL、CentOS6
-- Mac、Git、Vagrant、PHPStorm
+- Mac, Git, Vagrant, Intellij系IDE, VSCode 
+- CentOS6, MySQL, Apache, nginx
+- PHP 5, CakePHP2.x, CakePHP3.x
+- Go, Node.js, TypeScript
+- Angular7, Vue.js, 
+- Firebase, AWS
+- LINE Messaging API
+
+＊＊詳細**
+
+- 20サイト + 社内システムの保守開発
+- エンジニア文化の整備
+    - 日報・ドキュメント
+    - レビュー
+- Firebase と LINE Messaging APIを利用したチャットシステムの保守開発
+- コンテンツマーケティング用のWordpress風システムの保守開発
+- インフラのクラウド移行
 
 ---
 ### お問い合わせ・アンケート管理システムの開発
