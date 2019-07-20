@@ -23,7 +23,7 @@
 - Firebase, AWS
 - LINE Messaging API
 
-＊＊詳細**
+**詳細**
 
 - 20サイト + 社内システムの保守開発
 - エンジニア文化の整備
