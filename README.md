@@ -17,11 +17,14 @@
 
 - Mac, Git, Vagrant, Intellij系IDE, VSCode 
 - CentOS6, MySQL, Apache, nginx
-- PHP 5, CakePHP2.x, CakePHP3.x
+- PHP 7, CakePHP2.x, CakePHP3.x
 - Go, Node.js, TypeScript
 - Angular7, Vue.js, 
-- Firebase, AWS
+- Firebase
+- AWS
 - LINE Messaging API
+- Salesforce
+- Chatplus
 
 **詳細**
 
